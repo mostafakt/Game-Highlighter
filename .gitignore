@@ -1,0 +1,10 @@
+.idea
+check scope/training_set/*
+venv/*
+finalaudio.wav
+finalvideo.avi
+myaudio.wav
+output.mp4
+realm royale_Trim.mp4
+RestVideo.avi
+ThirdPersonVideo.avi
